@@ -7,7 +7,7 @@ int main(void)
 
 	fgets(name, 50, stdin);
 
-	printf("You are welcome %s,we hope you enjoy yourself heres\n", name);
+	printf("You are welcome %s,we hope you enjoy yourself here\n", name);
 
 	return (0);
 }
